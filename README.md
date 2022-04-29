@@ -14,6 +14,7 @@
  - :octocat:Github (Duh)
    + Flow, page
 ## Can-do
+ - LaTex
  - Deep Learning
    - Torch
  - Linux and Generic server
