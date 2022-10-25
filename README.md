@@ -43,7 +43,7 @@
 - [UnityFixedPointMath](https://github.com/Yukinyaa/UnityFixedPointMath) Forked from [FixedMath.Net](https://github.com/asik/FixedMath.Net), `Unity`, `Unity Package`, `UTF`
 ## Other Projects
 - [두 사람의 하루](https://play.google.com/store/apps/details?id=com.sepiagames.haru&hl=ko&gl=US), Programmer. `Unity`
-- [Factorio](https://factorio.com), [Satisfactory](https://www.satisfactorygame.com/), EN/US > KO/KR Translation
+- [Factorio](https://factorio.com), [Satisfactory](https://www.satisfactorygame.com/) : EN/US > KO/KR Translation at crwodin
 
 # Find me at...
 - [woong712@BAEKJOON](https://www.acmicpc.net/user/woong712), Code golfing in `C`, `GolfScript`
