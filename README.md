@@ -8,7 +8,6 @@
    + Optimization 💕
  - Unity
    + General Scripting
-   + Big fan of ECS ❤️
  - Git (Duh)
    + Merge Conflicts, LFS, etc. You name it.
  - :octocat:Github (Duh)
