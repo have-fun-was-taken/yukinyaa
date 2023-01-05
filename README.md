@@ -37,7 +37,7 @@
 
 
 ## Personal Projects
-- [StuckOnMoon](https://github.com/Yukinyaa/StuckOnMoon) Super deterministic lockstep game, `Unity` (WIP, 2020 ~)
+- [StuckOnMoon](https://github.com/Yukinyaa/StuckOnMoon) Super deterministic lockstep game, `Unity` (Halted Indefinitely, 2020 ~ 2022ish)
 - [BigFloat](https://github.com/Yukinyaa/BigFloat) Plugin for Unity, `Unity`, `Unity Package`, `UTF`
 - [UnityFixedPointMath](https://github.com/Yukinyaa/UnityFixedPointMath) Forked from [FixedMath.Net](https://github.com/asik/FixedMath.Net), `Unity`, `Unity Package`, `UTF`
 ## Other Projects
