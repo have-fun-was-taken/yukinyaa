@@ -32,7 +32,6 @@
    + Flow, page
  - Multicore Processing 🌸
    + Tried with C# and C++, python
-   + 
 ## Can-do
  - LaTex
  - Deep Learning
