@@ -9,7 +9,7 @@
 
 ## Other Projects
 - [두 사람의 하루](https://play.google.com/store/apps/details?id=com.sepiagames.haru&hl=ko&gl=US), Programmer. `Unity`
-- [Factorio](https://factorio.com), [Satisfactory](https://www.satisfactorygame.com/) : EN/US > KO/KR Translation at crwodin
+- [Factorio](https://factorio.com), [Satisfactory](https://www.satisfactorygame.com/) : EN/US > KO/KR Translation at crowdin
 - AND MORE!!
 
 ## Open source contribution
