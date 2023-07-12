@@ -9,7 +9,7 @@
 
 ## Other Projects
 - [두 사람의 하루](https://play.google.com/store/apps/details?id=com.sepiagames.haru&hl=ko&gl=US), Programmer. `Unity`
-- [Lost Campus](https://github.com/Yukinyaa/LostCampus) TPS multiplayer survive, Technical Artist, Project manager, Lead Game Designer
+- [Lost Campus](https://github.com/Yukinyaa/LostCampus) TPS multiplayer survive game, Technical Artist, Project manager, Lead Game Designer, `Unity`, `Blender`
 - [Factorio](https://factorio.com), [Satisfactory](https://www.satisfactorygame.com/) : EN/US > KO/KR Translation at crowdin
 - [AND MORE!!](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects..md)
 
