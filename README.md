@@ -10,7 +10,7 @@
 ## Other Projects
 - [두 사람의 하루](https://play.google.com/store/apps/details?id=com.sepiagames.haru&hl=ko&gl=US), Programmer. `Unity`
 - [Factorio](https://factorio.com), [Satisfactory](https://www.satisfactorygame.com/) : EN/US > KO/KR Translation at crowdin
-- AND MORE!!
+- [AND MORE!!](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects..md)
 
 ## Open source contribution
 - [KC3Kai/KC3Kai](https://github.com/KC3Kai/KC3Kai) Backup feature, EN>KR Translation (2016~2017)
