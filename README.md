@@ -17,8 +17,6 @@
 - [KC3Kai/KC3Kai](https://github.com/KC3Kai/KC3Kai) Backup feature, EN>KR Translation (2016~2017)
 - [GimoXagros/XMKTP](https://github.com/GimoXagros/XMKTP), [Refactorio/RedMew](https://github.com/Refactorio/RedMew) EN/US > KO/KR Translation at translation platform (crowdin)
 
-## Papers
-
 # Skills
 
 ## Confient
