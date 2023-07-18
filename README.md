@@ -1,7 +1,8 @@
 # ❤️ from S. Korea :) :kr:
 
 # Contributions and Projects
-
+- [KO/KR Portfolio](https://github.com/Yukinyaa/yukinyaa/blob/main/Portfolio_KO-KR.md)
+- [Find All projects At](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects.md)
 ## Personal Projects
 - [StuckOnMoon](https://github.com/Yukinyaa/StuckOnMoon) Super deterministic lockstep game, `Unity` (Halted Indefinitely, 2020 ~ 2022ish)
 - [BigFloat](https://github.com/Yukinyaa/BigFloat) Plugin for Unity, `Unity`, `Unity Package`, `UTF`
@@ -11,7 +12,6 @@
 - [두 사람의 하루](https://play.google.com/store/apps/details?id=com.sepiagames.haru&hl=ko&gl=US), Programmer. `Unity`
 - [Lost Campus](https://github.com/Yukinyaa/LostCampus) TPS multiplayer survive game, Technical Artist, Project manager, Lead Game Designer, `Unity`, `Blender`
 - [Factorio](https://factorio.com), [Satisfactory](https://www.satisfactorygame.com/) : EN/US > KO/KR Translation at crowdin
-- [AND MORE!!](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects..md)
 
 ## Open source contribution
 - [KC3Kai/KC3Kai](https://github.com/KC3Kai/KC3Kai) Backup feature, EN>KR Translation (2016~2017)
