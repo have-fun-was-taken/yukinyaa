@@ -4,11 +4,7 @@ VR, AI, **게임 개발자**인 황제웅입니다.
 
 2021년도 중앙대학교 컴퓨터공학 대학원에 입학하여 가상체화연구실에서 활동했으며, VR을 위한 전신 및 얼굴 Realtime Animation을 딥러닝을 활용하여 달성하는 것에 대하여 연구하였습니다.
 
-# 기술 스택
-⭐`Unity`, ⭐`Git`, ⭐`Github`, ⭐`C#`, `PyTorch`, `C(Clang, gcc)`
-
 # 프로젝트 하이라이트
-
 
 ## ⭐Lost Campus⭐
 [:octocat: Repo](https://github.com/Yukinyaa/LostCampus) 
