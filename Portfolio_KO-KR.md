@@ -30,7 +30,17 @@ VR, AI, **게임 개발자**인 황제웅입니다.
    - Dataset Collection: ARKit과 Video Clip Collection을 통한 Dataset 확보
    - Network Design: LSTM 네트워크를 설계하고 구현
    - Writing: 해당 내용에 대한 Technical Writing
- - Notable Keywords: `ARKit`, `LSTM`, `ARKit`
+ - Notable Keywords: `ARKit`, `LSTM`
+
+## PhysPose
+Yet to be published, Coming Soon^tm^
+
+ - 3 VR Sensor에서 Full body SMPL Model을 Realtime으로 예측하는 문제에 대한 새로운 방법
+ - 상세 Task
+   - Dataset Manipulation
+     - [AMASS](https://amass.is.tue.mpg.de/index.html) Dataset을 가공하여 Unity 좌표로 변환
+     - Dataset을 해석하여 Forward Kinematics를 통한 joint position 계산
+   - Rendering: Dataset의 Ground Truth sequnce와 Network의 Output sequnce를 비교할 수 있는 다양한 Rendering 제작
 
 ## ⭐두 사람의 하루
 [Google Play](https://play.google.com/store/apps/details?id=com.sepiagames.haru&hl=ko&gl=US)
@@ -67,9 +77,6 @@ VR, AI, **게임 개발자**인 황제웅입니다.
    - Padded Array [Demo](https://gist.github.com/Yukinyaa/bf128b18942eee389564ed218b174e24) 
 
 
-## PhysPose
-
-Yet to be published, Coming Soon^tm^
 
 ## OSS 프로젝트
 
