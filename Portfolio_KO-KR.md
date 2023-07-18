@@ -28,7 +28,7 @@ VR, AI, **게임 개발자**인 황제웅입니다.
    - Writing: 해당 내용에 대한 Technical Writing
  - Notable Keywords: `ARKit`, `LSTM`
 
-## PhysPose
+## ⭐PhysPose⭐
 Yet to be published, Coming Soon^tm^
 
  - 3 VR Sensor에서 Full body SMPL Model을 Realtime으로 예측하는 문제에 대한 새로운 방법
