@@ -17,7 +17,7 @@
 - [KC3Kai/KC3Kai](https://github.com/KC3Kai/KC3Kai) Backup feature, EN>KR Translation (2016~2017)
 - [GimoXagros/XMKTP](https://github.com/GimoXagros/XMKTP), [Refactorio/RedMew](https://github.com/Refactorio/RedMew) EN/US > KO/KR Translation at translation platform (crowdin)
 
-
+## Papers
 
 # Skills
 
@@ -52,7 +52,7 @@
 
 # Find me at...
 - [woong712@BAEKJOON](https://www.acmicpc.net/user/woong712), Code golfing in `C`, `GolfScript`
-
+- [@ResearchGate](https://www.researchgate.net/profile/Jewoong-Hwang)
 
  
  
