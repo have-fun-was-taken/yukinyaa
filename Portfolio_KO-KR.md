@@ -1,5 +1,3 @@
-
-
 VR, AI, **게임 개발자**인 황제웅입니다.
 
 게임 제작 관련이라면 넓은 분야로 관심을 가지고 공부하였습니다. 중앙대학교 게임 제작 동아리에서 열 개 이상의 프로젝트에 참여하며 게임제작에서의 프로그래머로써, 그리고 리더로써 많은 경험을 쌓았습니다.
@@ -14,18 +12,24 @@ VR, AI, **게임 개발자**인 황제웅입니다.
 
 ## ⭐Lost Campus⭐
 [:octocat: Repo](https://github.com/Yukinyaa/LostCampus) 
-- 게임(TPS 멀티플레이어 생존), 2021.04 ~ 2021.08
+- 게임(TPS 멀티플레이어 생존), 2021.04 ~ 2021.10
 - 팀구성: 프로그래밍 5명, 아트 8명, 기획 2명
- - 역할: 프로그래밍과 기획 팀장, 일정 관리
+ - 역할: 프로그래밍/기획 팀장
  - 상세 역할
-   프로그래밍: Mirror Network를 통한 TPS 엔진 기본 베이스 이해를 통한 작업분배, 아트와의 지속적인 소통으로 만족할 수 있는 그래픽
-   기획: 아트 기획의 방향성을 관리 및 UI 기획
-  일정 관리: 매 주간 회의마다 일정 조율 및 지속적 관리
+   프로그래밍: Mirror Network를 통한 TPS 엔진 기본 베이스 이해를 통한 작업분배
+   아트와의 지속적인 소통으로 셰이더 제작
+   기획: 아트 기획의 방향성을 관리 및 맵 제작에 관여
+   일정 관리: 매 주간 회의마다 일정 조율 및 지속적 관리
 
 ## ⭐Full-face Animation for a Virtual Reality Avatar⭐
 [Springer Page](https://link.springer.com/chapter/10.1007/978-3-031-36004-6_27)
- - 논문, 2022.01 ~ 2023.03
+ - 1st Author 논문, 2023.03
  - 자연스럽고 VR에 적합한 Upper Face Animation을 위한 방법 제시
+   - Lower Face Lipsync 관련 애니메이션에서 Upper Face를 만듦
+ - 상세 Task
+   - Dataset Collection: ARKit과 Video Clip Collection을 통한 Dataset 확보
+   - Network Design: LSTM 네트워크를 설계하고 구현
+   - Writing: 해당 내용에 대한 Technical Writing
  - Notable Keywords: `ARKit`, `LSTM`, `ARKit`
 
 ## ⭐두 사람의 하루
@@ -45,6 +49,13 @@ VR, AI, **게임 개발자**인 황제웅입니다.
 - 팀구성 : 기획 2명, 아트 1명, 프로그래밍 3명
 - 역할: 프로그래머로 참여, 탄환 및 몬스터의 AI를 기획 및 프로그래밍함
 
+## ⭐수인소녀
+[Video](https://youtu.be/twFoPwQYkWk)
+- 게임(TCG) 2017.10 ~ 2020.10
+- 역할: 팀장/프로그래머로써 참여, 2년간 열심히 휘둘렸다...
+- 상세 구현 내용
+  Socket 통해 TCG 서버 구현: 매칭서버, 갸챠, 덱빌딩 서버
+  UGUI를 통해 대전 구현
 
 
 ## StuckOnMoon 
