@@ -29,7 +29,7 @@ VR, AI, **게임 개발자**인 황제웅입니다.
  - Notable Keywords: `ARKit`, `LSTM`
 
 ## ⭐PhysPose⭐
-Yet to be published, Coming Soon^tm^
+Yet to be published, Coming Soon™️
 
  - 3 VR Sensor에서 Full body SMPL Model을 Realtime으로 예측하는 문제에 대한 새로운 방법
  - 상세 Task
@@ -51,7 +51,7 @@ Yet to be published, Coming Soon^tm^
 ## ⭐171프로젝트
 [트레일러](https://drive.google.com/file/d/0B3tgEm4OYLlENjJienVQdmpsNnM/view?usp=drive_link&resourcekey=0-5FDRst9vMoVJZWpwhtWU9g)
 - 게임(탑뷰슈터), 2017.04 ~ 2017.09
-- 라인플러스 대학생 게임개발동아리 공모전 은상
+- 라인플러스 대학생 게임개발동아리 공모전 은상f
 - 팀구성 : 기획 2명, 아트 1명, 프로그래밍 3명
 - 역할: 프로그래머로 참여, 탄환 및 몬스터의 AI를 기획 및 프로그래밍함
 
