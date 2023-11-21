@@ -43,7 +43,7 @@
 ### School
 - Sunrin Internet HS 2013.3 \~ 2016.3
 - ChungAng Univ. 2016.3 \~ 2021.8
-- ChungAng Univ. Grad. 2021.8\~ (Working on Master's degree)
+- ChungAng Univ. Grad. 2021.8\~ 2023.8 \(Master's program\)
 
 ### Club
  - CIEN@CAU 2016.4 \~ 2022
