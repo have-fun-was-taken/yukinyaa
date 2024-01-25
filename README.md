@@ -1,5 +1,8 @@
 # ❤️ from S. Korea :) :kr:
 
+*not looking for work rn
+
+
 # Contributions and Projects
 - [KO/KR Portfolio](https://github.com/Yukinyaa/yukinyaa/blob/main/Portfolio_KO-KR.md)
 - [Find All projects At](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects.md)
