@@ -7,7 +7,6 @@
 - [KO/KR Portfolio](https://github.com/Yukinyaa/yukinyaa/blob/main/Portfolio_KO-KR.md)
 - [Find All projects At](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects.md)
 ## Personal Projects
-- [StuckOnMoon](https://github.com/Yukinyaa/StuckOnMoon) Super deterministic lockstep game, `Unity` (Halted Indefinitely, 2020 ~ 2022ish)
 - [BigFloat](https://github.com/Yukinyaa/BigFloat) Plugin for Unity, `Unity`, `Unity Package`, `UTF`
 - [UnityFixedPointMath](https://github.com/Yukinyaa/UnityFixedPointMath) Forked from [FixedMath.Net](https://github.com/asik/FixedMath.Net), `Unity`, `Unity Package`, `UTF`
 
