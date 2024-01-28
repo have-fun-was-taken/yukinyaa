@@ -13,7 +13,7 @@ Click :octocat: to see Github Repo
 - UnityFixedPointMath [:octocat:](https://github.com/Yukinyaa/UnityFixedPointMath), Forked from [FixedMath.Net](https://github.com/asik/FixedMath.Net), `Unity`, `Unity Package`, `UTF`
 
 ## Personal Projects
-- StuckOnMoon [:octocat:](https://github.com/Yukinyaa/StuckOnMoon), Super deterministic lockstep game
+<!-- - StuckOnMoon [:octocat:](https://github.com/Yukinyaa/StuckOnMoon), Super deterministic lockstep game -->
 - BigBag AE Quick FIx [mod portal](https://mods.factorio.com/mod/BigBagAEQuickFix), Factorio mod to fix mod conflict
 
 ## Others
