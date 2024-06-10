@@ -21,7 +21,7 @@
 
 # Skills
 
-## Confient
+## Confident
  - C#
    + LINQ ❤️
    + Optimization 💕
